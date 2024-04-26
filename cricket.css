@@ -1,0 +1,33 @@
+.card{
+    border: none !important;
+}
+.card.main-card{
+    background: #fb4e71;
+}
+.card.sub-card{
+    background: #e6f6ff;
+}
+.card.sub-card .txt-bg-color{
+    background: #ffffff;
+    width: 100%;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.video-section{
+    display: flex;
+  justify-content: space-between;
+}
+.div-img-txt h6{
+    margin-top: 10px;
+}
+.button{
+    padding: 20px;
+    text-align: center;    
+}
+.button button{
+    background-color:blue;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
