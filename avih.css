@@ -1,0 +1,30 @@
+.carousel{
+    height: 100vh;
+    width: 500px;
+
+}
+.h-h{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: rgb(233, 0, 144);
+}
+.m-para{
+    margin-left: 20px;
+    width: 333px;
+    color: rgb(0, 0, 0);
+}
+.more-pic{
+     margin-bottom: 30%;
+
+}
+.h-pic{
+    margin-bottom: 30px;
+    margin-left: 20px;
+    color: rgb(2, 63, 233);
+}
+.images-1{
+    margin-left: 20px;
+}
+.embed-responsive-item{
+    width: 20px;
+}
